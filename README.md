@@ -11,6 +11,8 @@ Citi Bike is the nation's largest bike share program, with 15,000 bikes and over
 ## Citi Bike Analytics - Tableau Storyboard
 This Storyboard is to analyze and visualize New York City Citi Bike Share program data. The purpose of this project is to answer the common questions users have, such as  'Which staions are most popular?', 'What days of the week are most rides take on?', 'How is the user demographics?', etc. The analytics used Citi bike data from January 2020 to December 2020.
 
+![dashboard](./Resources/dashboard.gif)
+
 ## Analytics & Insights
 
 - The 'User Demographics' dashboard shows that Male riders consist the most significant portion, followed by female riders. 'Unknown' category users are mostly from 'customers' other than subscribers. It seems that that's because subscribers have the gender information, while for the customers who purchased a 24-hour pass or three-day pass, there are less available gender data about the users. Plus, about two-thirds of users are subscribers.
